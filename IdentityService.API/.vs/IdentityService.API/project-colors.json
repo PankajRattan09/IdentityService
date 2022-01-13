@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "1467fb18-3fd0-4a49-8cae-d171168fdf82": {
+      "ProjectGuid": "1467fb18-3fd0-4a49-8cae-d171168fdf82",
+      "DisplayName": "IdentityService.API",
+      "ColorIndex": 0
+    },
+    "cfe47d91-69e6-4dd6-906e-2b5b96f1737b": {
+      "ProjectGuid": "cfe47d91-69e6-4dd6-906e-2b5b96f1737b",
+      "DisplayName": "IdentityService.Application",
+      "ColorIndex": 1
+    },
+    "9c5ea85c-d83c-408e-8588-2cbb5861d0e0": {
+      "ProjectGuid": "9c5ea85c-d83c-408e-8588-2cbb5861d0e0",
+      "DisplayName": "IdentityService.Core",
+      "ColorIndex": 2
+    },
+    "7111997f-39f4-4313-a1f6-93105bc62d6c": {
+      "ProjectGuid": "7111997f-39f4-4313-a1f6-93105bc62d6c",
+      "DisplayName": "IdentityService.Infrastructure",
+      "ColorIndex": 3
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "42aad686-dfd2-40e7-89b4-64f5c241c7a8": {
+      "ProjectGuid": "42aad686-dfd2-40e7-89b4-64f5c241c7a8",
+      "DisplayName": "IdentityService.API.Test",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}

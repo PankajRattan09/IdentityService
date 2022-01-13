@@ -1,0 +1,15 @@
+C:\Users\pankaj.kumar3\source\repos\IdentityService.API\IdentityService.Application\bin\Debug\net6.0\IdentityService.Application.deps.json
+C:\Users\pankaj.kumar3\source\repos\IdentityService.API\IdentityService.Application\bin\Debug\net6.0\IdentityService.Application.dll
+C:\Users\pankaj.kumar3\source\repos\IdentityService.API\IdentityService.Application\bin\Debug\net6.0\ref\IdentityService.Application.dll
+C:\Users\pankaj.kumar3\source\repos\IdentityService.API\IdentityService.Application\bin\Debug\net6.0\IdentityService.Application.pdb
+C:\Users\pankaj.kumar3\source\repos\IdentityService.API\IdentityService.Application\bin\Debug\net6.0\IdentityService.Core.dll
+C:\Users\pankaj.kumar3\source\repos\IdentityService.API\IdentityService.Application\bin\Debug\net6.0\IdentityService.Core.pdb
+C:\Users\pankaj.kumar3\source\repos\IdentityService.API\IdentityService.Application\obj\Debug\net6.0\IdentityService.Application.csproj.AssemblyReference.cache
+C:\Users\pankaj.kumar3\source\repos\IdentityService.API\IdentityService.Application\obj\Debug\net6.0\IdentityService.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pankaj.kumar3\source\repos\IdentityService.API\IdentityService.Application\obj\Debug\net6.0\IdentityService.Application.AssemblyInfoInputs.cache
+C:\Users\pankaj.kumar3\source\repos\IdentityService.API\IdentityService.Application\obj\Debug\net6.0\IdentityService.Application.AssemblyInfo.cs
+C:\Users\pankaj.kumar3\source\repos\IdentityService.API\IdentityService.Application\obj\Debug\net6.0\IdentityService.Application.csproj.CoreCompileInputs.cache
+C:\Users\pankaj.kumar3\source\repos\IdentityService.API\IdentityService.Application\obj\Debug\net6.0\IdentityService.Application.csproj.CopyComplete
+C:\Users\pankaj.kumar3\source\repos\IdentityService.API\IdentityService.Application\obj\Debug\net6.0\IdentityService.Application.dll
+C:\Users\pankaj.kumar3\source\repos\IdentityService.API\IdentityService.Application\obj\Debug\net6.0\ref\IdentityService.Application.dll
+C:\Users\pankaj.kumar3\source\repos\IdentityService.API\IdentityService.Application\obj\Debug\net6.0\IdentityService.Application.pdb

@@ -1,0 +1,12 @@
+C:\Users\pankaj.kumar3\source\repos\IdentityService.API\IdentityService.Core\bin\Debug\net6.0\IdentityService.Core.deps.json
+C:\Users\pankaj.kumar3\source\repos\IdentityService.API\IdentityService.Core\bin\Debug\net6.0\IdentityService.Core.dll
+C:\Users\pankaj.kumar3\source\repos\IdentityService.API\IdentityService.Core\bin\Debug\net6.0\ref\IdentityService.Core.dll
+C:\Users\pankaj.kumar3\source\repos\IdentityService.API\IdentityService.Core\bin\Debug\net6.0\IdentityService.Core.pdb
+C:\Users\pankaj.kumar3\source\repos\IdentityService.API\IdentityService.Core\obj\Debug\net6.0\IdentityService.Core.csproj.AssemblyReference.cache
+C:\Users\pankaj.kumar3\source\repos\IdentityService.API\IdentityService.Core\obj\Debug\net6.0\IdentityService.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pankaj.kumar3\source\repos\IdentityService.API\IdentityService.Core\obj\Debug\net6.0\IdentityService.Core.AssemblyInfoInputs.cache
+C:\Users\pankaj.kumar3\source\repos\IdentityService.API\IdentityService.Core\obj\Debug\net6.0\IdentityService.Core.AssemblyInfo.cs
+C:\Users\pankaj.kumar3\source\repos\IdentityService.API\IdentityService.Core\obj\Debug\net6.0\IdentityService.Core.csproj.CoreCompileInputs.cache
+C:\Users\pankaj.kumar3\source\repos\IdentityService.API\IdentityService.Core\obj\Debug\net6.0\IdentityService.Core.dll
+C:\Users\pankaj.kumar3\source\repos\IdentityService.API\IdentityService.Core\obj\Debug\net6.0\ref\IdentityService.Core.dll
+C:\Users\pankaj.kumar3\source\repos\IdentityService.API\IdentityService.Core\obj\Debug\net6.0\IdentityService.Core.pdb

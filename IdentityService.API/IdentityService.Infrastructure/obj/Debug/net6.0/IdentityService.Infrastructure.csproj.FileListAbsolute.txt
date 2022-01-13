@@ -1,0 +1,17 @@
+C:\Users\pankaj.kumar3\source\repos\IdentityService.API\IdentityService.Infrastructure\bin\Debug\net6.0\IdentityService.Infrastructure.deps.json
+C:\Users\pankaj.kumar3\source\repos\IdentityService.API\IdentityService.Infrastructure\bin\Debug\net6.0\IdentityService.Infrastructure.dll
+C:\Users\pankaj.kumar3\source\repos\IdentityService.API\IdentityService.Infrastructure\bin\Debug\net6.0\ref\IdentityService.Infrastructure.dll
+C:\Users\pankaj.kumar3\source\repos\IdentityService.API\IdentityService.Infrastructure\bin\Debug\net6.0\IdentityService.Infrastructure.pdb
+C:\Users\pankaj.kumar3\source\repos\IdentityService.API\IdentityService.Infrastructure\bin\Debug\net6.0\IdentityService.Core.dll
+C:\Users\pankaj.kumar3\source\repos\IdentityService.API\IdentityService.Infrastructure\bin\Debug\net6.0\IdentityService.Core.pdb
+C:\Users\pankaj.kumar3\source\repos\IdentityService.API\IdentityService.Infrastructure\obj\Debug\net6.0\IdentityService.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\pankaj.kumar3\source\repos\IdentityService.API\IdentityService.Infrastructure\obj\Debug\net6.0\IdentityService.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pankaj.kumar3\source\repos\IdentityService.API\IdentityService.Infrastructure\obj\Debug\net6.0\IdentityService.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\pankaj.kumar3\source\repos\IdentityService.API\IdentityService.Infrastructure\obj\Debug\net6.0\IdentityService.Infrastructure.AssemblyInfo.cs
+C:\Users\pankaj.kumar3\source\repos\IdentityService.API\IdentityService.Infrastructure\obj\Debug\net6.0\IdentityService.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\pankaj.kumar3\source\repos\IdentityService.API\IdentityService.Infrastructure\obj\Debug\net6.0\IdentityService.Infrastructure.csproj.CopyComplete
+C:\Users\pankaj.kumar3\source\repos\IdentityService.API\IdentityService.Infrastructure\obj\Debug\net6.0\IdentityService.Infrastructure.dll
+C:\Users\pankaj.kumar3\source\repos\IdentityService.API\IdentityService.Infrastructure\obj\Debug\net6.0\ref\IdentityService.Infrastructure.dll
+C:\Users\pankaj.kumar3\source\repos\IdentityService.API\IdentityService.Infrastructure\obj\Debug\net6.0\IdentityService.Infrastructure.pdb
+C:\Users\pankaj.kumar3\source\repos\IdentityService.API\IdentityService.Infrastructure\bin\Debug\net6.0\IdentityService.Infrastructure.runtimeconfig.json
+C:\Users\pankaj.kumar3\source\repos\IdentityService.API\IdentityService.Infrastructure\obj\Debug\net6.0\IdentityService.Infrastructure.genruntimeconfig.cache

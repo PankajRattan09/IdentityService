@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "f/ulEWQdcvBlAXar1W/GrxsivcuYlbOnMR0hHBcPn91QqijQqFbDf905t/8NQAhyqk0+lkV2Ux51lZ4aq+6rPg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\pankaj.kumar3\\source\\repos\\IdentityService.API\\IdentityService.Application\\IdentityService.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pankaj.kumar3\\.nuget\\packages\\automapper\\11.0.0\\automapper.11.0.0.nupkg.sha512",
+    "C:\\Users\\pankaj.kumar3\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
