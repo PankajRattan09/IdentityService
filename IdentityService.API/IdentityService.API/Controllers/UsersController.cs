@@ -16,7 +16,7 @@ namespace IdentityService.API.Controllers
         /// Read user details from db using aplid
         /// </summary>
         /// <param name="id">id represents aplid</param>
-        /// <returns></returns>
+        /// <returns>UserDetailsViewModels</returns>
         /// <exception cref="Exception">Required parameter - AplId</exception>
         [HttpGet]
         [Route("userid/{id}")]
@@ -40,7 +40,7 @@ namespace IdentityService.API.Controllers
         /// Read user details from db using userguid
         /// </summary>
         /// <param name="id">id represents userguid</param>
-        /// <returns></returns>
+        /// <returns>UserDetailsViewModels as base64 string</returns>
         /// <exception cref="Exception">Required parameter - UserGuid</exception>
         [HttpGet]
         [Route("{id}")]
