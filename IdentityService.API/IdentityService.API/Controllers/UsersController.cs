@@ -22,6 +22,7 @@ namespace IdentityService.API.Controllers
         [Route("userid/{id}")]
         [ProducesResponseType(StatusCodes.Status200OK)]
         [ProducesResponseType(StatusCodes.Status404NotFound)]
+        [ProducesResponseType(StatusCodes.Status400BadRequest)]
         public async Task<IActionResult> GetUserByUserId([FromRoute] string id)
         {
             if (string.IsNullOrEmpty(id))
@@ -46,6 +47,7 @@ namespace IdentityService.API.Controllers
         [Route("{id}")]
         [ProducesResponseType(StatusCodes.Status200OK)]
         [ProducesResponseType(StatusCodes.Status404NotFound)]
+        [ProducesResponseType(StatusCodes.Status400BadRequest)]
         public async Task<IActionResult> GetUserById([FromRoute] string id)
         {
             if (string.IsNullOrEmpty(id))
