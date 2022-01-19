@@ -4,7 +4,12 @@ using IdentityService.Application.Services;
 using IdentityService.Core.Interfaces;
 using IdentityService.Infrastructure.Data;
 using IdentityService.Infrastructure.Repositories;
+using IdentityService.OktaSecurity.Entities;
+using IdentityService.OktaSecurity.Interfaces;
+using IdentityService.OktaSecurity.Services;
+using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.OpenApi.Models;
 using Serilog;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -17,7 +22,39 @@ builder.Services.AddControllers();
 
 builder.Services.AddEndpointsApiExplorer();
 
-builder.Services.AddSwaggerGen();
+builder.Services.AddSwaggerGen(gen =>
+{
+    gen.SwaggerDoc("v1", new Microsoft.OpenApi.Models.OpenApiInfo
+    {
+        Title = "Identity Service API",
+        Version = "v1",
+        Description = "Identity Service API"
+    });
+
+    gen.AddSecurityDefinition("Bearer", new Microsoft.OpenApi.Models.OpenApiSecurityScheme
+    {
+        Type = Microsoft.OpenApi.Models.SecuritySchemeType.Http,
+        BearerFormat = "JWT",
+        In = Microsoft.OpenApi.Models.ParameterLocation.Header,
+        Scheme = "bearer",
+        Description = "Please enter Okta token into field"
+    });
+
+    gen.AddSecurityRequirement(new Microsoft.OpenApi.Models.OpenApiSecurityRequirement
+    {
+        {
+            new OpenApiSecurityScheme
+            {
+                Reference = new OpenApiReference
+                {
+                    Type = ReferenceType.SecurityScheme,
+                    Id = "Bearer"
+                }
+            },
+            new string[]{}
+        }
+    });
+});
 
 builder.Services.AddAutoMapper(AppDomain.CurrentDomain.GetAssemblies());
 
@@ -30,15 +67,29 @@ builder.Services.AddApiVersioning(options =>
 
 builder.Services.AddProblemDetails(opt =>
 {
-    opt.IncludeExceptionDetails = (ctx,ex) =>
+    opt.IncludeExceptionDetails = (ctx, ex) =>
     {
         return builder.Environment.IsDevelopment() || builder.Environment.IsStaging();
     };
 });
 
+builder.Services.Configure<OktaSettings>(builder.Configuration.GetSection("Okta"));
+
+builder.Services.AddTransient<ITokenService, TokenService>();
 builder.Services.AddTransient<IUserService, UserService>();
 builder.Services.AddTransient<IUser, UserRepository>();
-builder.Services.AddDbContext<UserContext>(options=> options.UseSqlServer(builder.Configuration.GetConnectionString("Connection")));
+builder.Services.AddDbContext<UserContext>(options => options.UseSqlServer(builder.Configuration.GetConnectionString("Connection")));
+
+
+builder.Services.AddAuthentication(options =>
+{
+    options.DefaultScheme = JwtBearerDefaults.AuthenticationScheme;
+}).AddJwtBearer(options =>
+{
+    options.Authority = "https://dev-65175284.okta.com/oauth2/default";
+    options.Audience = "api://default";
+    options.RequireHttpsMetadata = false;
+});
 
 var app = builder.Build();
 

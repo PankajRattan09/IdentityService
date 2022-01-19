@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "4uivJfwC1uSxcO0b2OLYmGnuP03cjbBgtgC7Nu0ro20/gwTzWrJP8T8l21oxYqfiUB0F8umO1+nx5EBoNkwzuw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\pankaj.kumar3\\source\\repos\\New folder\\IdentityService.API\\IdentityService.OktaSecurity\\IdentityService.OktaSecurity.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pankaj.kumar3\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\pankaj.kumar3\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
+    "C:\\Users\\pankaj.kumar3\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\pankaj.kumar3\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\pankaj.kumar3\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

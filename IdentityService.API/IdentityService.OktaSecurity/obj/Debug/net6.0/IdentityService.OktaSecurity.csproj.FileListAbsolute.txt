@@ -1,0 +1,12 @@
+C:\Users\pankaj.kumar3\source\repos\New folder\IdentityService.API\IdentityService.OktaSecurity\bin\Debug\net6.0\IdentityService.OktaSecurity.deps.json
+C:\Users\pankaj.kumar3\source\repos\New folder\IdentityService.API\IdentityService.OktaSecurity\bin\Debug\net6.0\IdentityService.OktaSecurity.dll
+C:\Users\pankaj.kumar3\source\repos\New folder\IdentityService.API\IdentityService.OktaSecurity\bin\Debug\net6.0\ref\IdentityService.OktaSecurity.dll
+C:\Users\pankaj.kumar3\source\repos\New folder\IdentityService.API\IdentityService.OktaSecurity\bin\Debug\net6.0\IdentityService.OktaSecurity.pdb
+C:\Users\pankaj.kumar3\source\repos\New folder\IdentityService.API\IdentityService.OktaSecurity\obj\Debug\net6.0\IdentityService.OktaSecurity.csproj.AssemblyReference.cache
+C:\Users\pankaj.kumar3\source\repos\New folder\IdentityService.API\IdentityService.OktaSecurity\obj\Debug\net6.0\IdentityService.OktaSecurity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pankaj.kumar3\source\repos\New folder\IdentityService.API\IdentityService.OktaSecurity\obj\Debug\net6.0\IdentityService.OktaSecurity.AssemblyInfoInputs.cache
+C:\Users\pankaj.kumar3\source\repos\New folder\IdentityService.API\IdentityService.OktaSecurity\obj\Debug\net6.0\IdentityService.OktaSecurity.AssemblyInfo.cs
+C:\Users\pankaj.kumar3\source\repos\New folder\IdentityService.API\IdentityService.OktaSecurity\obj\Debug\net6.0\IdentityService.OktaSecurity.csproj.CoreCompileInputs.cache
+C:\Users\pankaj.kumar3\source\repos\New folder\IdentityService.API\IdentityService.OktaSecurity\obj\Debug\net6.0\IdentityService.OktaSecurity.dll
+C:\Users\pankaj.kumar3\source\repos\New folder\IdentityService.API\IdentityService.OktaSecurity\obj\Debug\net6.0\ref\IdentityService.OktaSecurity.dll
+C:\Users\pankaj.kumar3\source\repos\New folder\IdentityService.API\IdentityService.OktaSecurity\obj\Debug\net6.0\IdentityService.OktaSecurity.pdb
