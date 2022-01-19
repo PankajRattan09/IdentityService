@@ -10,6 +10,10 @@ namespace IdentityService.API.Controllers
         private readonly ITokenService _tokenService;
         public AccountController(ITokenService tokenService) => _tokenService = tokenService;
 
+        /// <summary>
+        /// Genarate okta security token to authrize api requests
+        /// </summary>
+        /// <returns>Okta security token</returns>
         [HttpGet]
         [Route("token")]
         [ProducesResponseType(StatusCodes.Status200OK)]
