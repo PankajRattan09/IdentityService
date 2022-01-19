@@ -13,7 +13,7 @@ namespace IdentityService.API.Controllers
         [HttpGet]
         [Route("token")]
         [ProducesResponseType(StatusCodes.Status200OK)]
-        public async Task<IActionResult> GetUserByUserId() =>
+        public async Task<IActionResult> GetToken() =>
             Ok(await _tokenService.GetToken());
     }
 }
